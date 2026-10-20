@@ -1,0 +1,11 @@
+# Original processed dataset
+aligned_50.pkl
+
+# Exported numerical features
+mosi_export/*_features.npz
+
+# Python environments and cache
+.venv/
+.venv310/
+__pycache__/
+*.pyc
